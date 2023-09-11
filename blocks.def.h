@@ -2,7 +2,6 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	{"VOL: ", "dwmblocks-volume",					0,		2},
-	{"BAT: ", "dwmblocks-battery",					60,		0},
 	{"", "date +'%A %d %b %H:%M'",					60,		0},
 };
 
